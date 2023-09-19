@@ -5,4 +5,4 @@ I am building to learn the MERN stack !
 <br>
 
 
-![alt text](https://imgur.com/iRzFi3F)
+![](https://imgur.com/iRzFi3F)
